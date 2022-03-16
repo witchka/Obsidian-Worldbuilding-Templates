@@ -1,0 +1,44 @@
+div:not(.setting-item) > .admonition.admonition-inf0box {
+    float: right;
+    max-width: 300px;
+    border: 0;
+    box-shadow: none;
+    Margin: 10px;
+}
+div:not(.setting-item) > .admonition-inf0box .admonition-title {
+    display: none;
+}
+.admonition-inf0box table {
+    width: 100%;
+
+}
+.admonition-inf0box .admonition-content {
+    padding: 0;
+    border: 1px solid var(--background-modifier-border);
+    margin: 0;
+
+}
+.admonition-inf0box .admonition-content p,
+.admonition-inf0box table {
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin: 0;
+
+}
+.admonition-inf0box h1,
+.admonition-inf0box h2,
+.admonition-inf0box h3,
+.admonition-inf0box h4,
+.admonition-inf0box h5,
+.admonition-inf0box h6 {
+    font-size: var(--editor-font-size);
+    text-align: center;
+    margin: 0;
+    padding: 2px;
+}
+.admonition-inf0box h1 { background: var(--background-primary-alt); }
+.admonition-inf0box h6 { background: var(--background-primary-alt); }
+
+.admonition-inf0box thead {
+
+    Display: none; }
