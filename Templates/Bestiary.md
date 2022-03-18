@@ -1,5 +1,5 @@
 ---
-banner: "![[Prized Unicorn Banner by Rudy Siswanto.png]]"
+banner: "![[banner.png]]"
 banner_y: 0.24334
 cssclass: img-grid
 tags: 
@@ -9,7 +9,7 @@ tags:
 
 > [!inf0box]
 > # Name
-> ![[Unicorn Rearing.png|ctr]]
+> ![[pic.png|ctr]]
 > ###### General Information
 >   |  |
 > ---|---|
