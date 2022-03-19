@@ -7,13 +7,13 @@ These are just some nice wiki-style templates for your worldbuilding pleasure, b
 
 ### Things Used:
 
-**Theme:** [ITS Theme by SIRvb](https://github.com/SlRvb/Obsidian--ITS-Theme). Provides image centering for the info box, as well as the gallery function. **If you want to use a different theme and still have all the functions you can so long as you install the [image snippet](https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/S%20-%20Images%20Adjustments.css) css also by SIRvb.**
+**Theme:** [ITS Theme by SlRvb](https://github.com/SlRvb/Obsidian--ITS-Theme). Provides image centering for the info box, as well as the gallery function. **If you want to use a different theme and still have all the functions you can so long as you install the [image snippet](https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/S%20-%20Images%20Adjustments.css) css also by SlRvb.**
 
 **Plugins:** Admonitions, Banners.
 
 #### YOU NEED TO USE THE INF0BOX CSS SNIPPET TO MAKE THE WIKI-STYLE INFO BOX SHOW UP CORRECTLY. Put it in your snippets folder. 
 
-The css is originally by SIRvb as well, with some light tweaking by me to get read of the table header.
+The css is originally by SlRvb as well, with some light tweaking by me to get read of the table header.
 
 You then need to make a custom admonition with the following settings and save it: 
 
