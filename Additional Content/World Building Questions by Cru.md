@@ -1,7 +1,7 @@
 # World Building Questions by Cru
 This is originally from [here](http://arcadia.net/Cruinne/DnD/Articles/worldbuilding.html), but has been reformatted/restructured for easier use in markdown. In truth you should probably break it up into several notes but for ease of sharing I've left it as one. 
 
-As with any of the world building "stuff" you should feel free to add or remove from it as desired and answer with as much or little depth as you need. No one person could ever make an entirely realised world, these are just tools to help you think when you sit down to try. 
+As with any of the world building "stuff" you should feel free to add or remove from it as desired and answer with as much or little depth as you need. 
 
 # Economy
 
