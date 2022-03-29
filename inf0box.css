@@ -1,0 +1,47 @@
+div:not(.setting-item) > .callout.callout[data-callout="inf0box"] {
+    float: right;
+    max-width: 300px;
+    border: 0;
+    box-shadow: none;
+    Margin: 10px;
+}
+div:not(.setting-item) > .callout[data-callout="inf0box"] .callout-title {
+    display: none;
+}
+.callout[data-callout="inf0box"] table {
+    width: 100%;
+
+}
+.callout[data-callout="inf0box"] .callout-content {
+    padding: 0;
+    border: 1px solid var(--background-modifier-border);
+    margin: 0;
+
+}
+.callout[data-callout="inf0box"] .callout-content p,
+.callout[data-callout="inf0box"] table {
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin: 0;
+
+}
+.callout[data-callout="inf0box"] h1,
+.callout[data-callout="inf0box"] h2,
+.callout[data-callout="inf0box"] h3,
+.callout[data-callout="inf0box"] h4,
+.callout[data-callout="inf0box"] h5,
+.callout[data-callout="inf0box"] h6 {
+    font-size: var(--editor-font-size);
+    text-align: center;
+    margin: 0;
+    padding: 2px;
+}
+.callout[data-callout="inf0box"] h1 { background: var(--background-primary-alt); }
+
+.callout[data-callout="inf0box"] h1:after { background: transparent !important; }
+
+.callout[data-callout="inf0box"] h6 { background: var(--background-primary-alt); }
+
+.callout[data-callout="inf0box"] thead {
+
+    Display: none; }
