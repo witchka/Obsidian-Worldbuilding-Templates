@@ -1,5 +1,5 @@
 ---
-banner: "![[scott-carroll-favQn8WgRyk-unsplash.jpg]]"
+banner: "![[img]]"
 banner_y: 0.24334
 cssclass: img-grid
 tags: 
@@ -9,7 +9,7 @@ tags:
 
 > [!inf0box]
 > # Name
-> ![[benjamin-raffetseder-oUIc4XH-VUY-unsplash.jpg|ctr]]
+> ![[img|ctr]]
 > ###### General Information
 >   |  |
 > ---|---|
