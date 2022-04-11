@@ -1,6 +1,5 @@
 ---
-tags: templates/worldbuilding templates/language
-cssclass: t-c
+tags: 
 ---
 
 The [Swadesh lists](https://en.wikipedia.org/wiki/Swadesh_list) is a set of words common in most languages that is useful both to rosetta stone your way around an ancient language and also to help you begin to form your own. It’s a good set of words to start off a naming language, even if you have no intentions of it ever being spoken like Tolkien’s Sindarin or Quenya. 
