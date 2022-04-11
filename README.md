@@ -1,6 +1,8 @@
 # Obsidian-Worldbuilding-Templates
 Templates for Obsidian.md for worldbuilders 
 
+* I need to update this file since the callouts were added to the public version of obsidian but the css is already updated though I kept both the old admonitions file and the new callouts file for those who need it. 
+
 ![image](https://user-images.githubusercontent.com/17267764/158693948-6830f272-d1c7-4780-84bf-64c8c2493bc8.png)
 
 These are just some nice wiki-style templates for your worldbuilding pleasure, built using Obsidian.md but accessible with any markdown or text editor, save for the parts that require a plugin or theme/snippet to look correct. 
